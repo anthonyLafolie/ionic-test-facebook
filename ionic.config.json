@@ -1,8 +1,0 @@
-{
-  "name": "ionic-test-facebook",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular",
-  "id": "4bc35049"
-}
