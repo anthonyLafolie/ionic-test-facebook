@@ -1,0 +1,8 @@
+{
+  "name": "ionic-test-facebook",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "4bc35049"
+}
